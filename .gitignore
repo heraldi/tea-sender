@@ -1,0 +1,12 @@
+# Ignore private keys
+pk_wallet.txt
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
